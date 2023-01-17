@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jamilelopes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I've been interested in programming for a few months and I'm trying hard to learn as much as possible. 
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me? E-mail me at: jamilelopesalmeida@gmail.com
 
 <!---
 jamilelopes/jamilelopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
